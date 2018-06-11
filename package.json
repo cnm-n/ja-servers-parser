@@ -1,0 +1,7 @@
+{
+  "name": "ja-servers-parser",
+  "description": "Jedi Academy servers response parser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "parser.js",
+}
